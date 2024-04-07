@@ -1,3 +1,5 @@
+//Amir
+
 import React, { useEffect, useState } from 'react'
 import Hero from '../Components/Hero/Hero'
 import Popular from '../Components/Popular/Popular'
