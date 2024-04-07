@@ -1,3 +1,5 @@
+//Amir
+
 import React from 'react'
 import './NewCollections.css'
 import Item from '../Item/Item'
